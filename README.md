@@ -3,7 +3,7 @@
 This repository contains the commands executed by the swiss army knife app (v2.1.3) to filter a VCF on allele frequency using BCFtools.
 
 ## Input
-The app requires a bash script `lofreq_filter_v1.0.sh` and uncompressed VCF file(s) produced by LoFreq (*lofreq.vcf).
+The app requires a bash script `lofreq_filter_v1.0.sh` and uncompressed VCF file(s) produced by LoFreq (**lofreq.vcf).
 
 The "command line" input is used to execute `lofreq_filter_v1.0.sh`. This is recorded in `command_line_input.sh`
 
